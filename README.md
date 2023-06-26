@@ -15,12 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-title: verma-anushka
-date: "2020-23-08"
-spoiler: Creativity Readme Template
-categories: ["creativity", "all-profile"]
-githubUsername: "verma-anushka"
----
+
 
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
